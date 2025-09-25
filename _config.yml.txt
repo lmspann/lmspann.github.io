@@ -1,4 +1,0 @@
-title: Lauren Spann's Technical Writing Portfolio
-description: This is Lauren Spann's technical writing portfolio.
-theme: jekyll-theme-Architect
-
