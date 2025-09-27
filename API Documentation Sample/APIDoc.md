@@ -1,7 +1,9 @@
 # Sample API Documentation
 This is a writing sample created by Lauren Spann. 
+
 ## Summary Description
 This is a REST API. It uses JSON and XML structured data to enable financial processes for online retailers.
+
 ## Access and Authentication
 The base URL for this REST API is `website URL`. 
 
