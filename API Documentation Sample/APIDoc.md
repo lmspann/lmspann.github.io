@@ -32,4 +32,3 @@ Description
 Scenario 1:
 - GET request parameters
 - response status and 'response JSON code'
-
