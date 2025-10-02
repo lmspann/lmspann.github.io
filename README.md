@@ -5,8 +5,8 @@ With five years of professional experience implementing SAP solutions with Deloi
 development life cycle that excites me the most. Exciting may be a strong word, but doing research and creating comprehensive documentation for 
 diverse stakeholder audiences gives me the opportunity to learn new technologies like a writer. 
 
-The intersection of my professional experience,
-solution implementation consulting, and my personal interst, creative writing, makes technical writing an attractive career path.
+The intersection of my professional experience and personal interest, solution implementation consulting and creative writing, makes technical 
+writing an engaging career path for me.
 
 ## Purpose
 This website serves as a portfolio for my technical writing projects. Below are links to writing samples that I maintain with the GitHub
