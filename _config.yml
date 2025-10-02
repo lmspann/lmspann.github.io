@@ -1,6 +1,6 @@
 title: Hi, I'm Lauren Spann!
-description: This is my technical writing portfolio.
-Logo: https://github.com/lmspann/lmspann.github.io/blob/main/Assets/Img/lmspann.png
+logo: /Assets/Img/lmspann.png
+description: This website is my technical writing portfolio.
 show_downloads: true
-google_analytics: 
+google_analytics:
 theme: jekyll-theme-minimal
