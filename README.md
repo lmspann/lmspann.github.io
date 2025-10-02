@@ -9,8 +9,8 @@ The intersection of my professional experience and personal interest, solution i
 writing an engaging career path for me.
 
 ## Purpose
-This website serves as a portfolio for my technical writing projects. Below are links to writing samples that I maintain with the GitHub
-and Swagger platforms.
+This website serves as a portfolio for my best technical writing projects. The Content section contains links to writing samples that I maintain 
+with the GitHub and Swagger platforms.
 
 ## Content
 - [Sample API Documentation](https://app.swaggerhub.com/apis/techwritingportfolio/SAP-REST-API/1.0.0)
