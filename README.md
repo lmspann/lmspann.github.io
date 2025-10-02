@@ -1,5 +1,5 @@
 # Technical Writing Portfolio
-*[LinkedIn]*(https://www.linkedin.com/in/lauren-spann-083055150)
+*[LinkedIn](https://www.linkedin.com/in/lauren-spann-083055150)*
 
 ## About
 With five years of professional experience implementing SAP solutions with Deloitte Consulting, documentation is a step in the software
