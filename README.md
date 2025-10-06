@@ -15,5 +15,4 @@ with the GitHub and Swagger platforms.
 
 ## Content
 - [Sample API Documentation](https://lmspann.github.io/OAS.io/)
-- [Sample User Guide](https://github.com/lmspann/lmspann.github.io/blob/main/User%20Guide%20Sample/UserGuide.txt/)
 - [Sample How-to Guide](https://lmspann.github.io/howtoGuide.io/)
