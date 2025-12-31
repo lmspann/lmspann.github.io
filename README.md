@@ -7,7 +7,7 @@ documentation is a step in the software development life cycle that I connect wi
 Conducting research and creating comprehensive documentation for diverse stakeholder audiences gives me the opportunity to 
 learn new technologies like a writer. 
 
-The intersection of my professional experience and personal interest, solution implementation consulting and creative writing, makes technical 
+The intersection of my professional experience and personal interest, technology consulting and creative writing, makes technical 
 writing an engaging career path for me.
 
 ## Purpose
