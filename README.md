@@ -3,7 +3,7 @@
 
 ## About
 With five years of professional experience implementing large scale SAP solutions for clients across industries with Deloitte Consulting, 
-documentation is a step in the software development life cycle that I connecte with the most. 
+documentation is a step in the software development life cycle that I connect with the most. 
 Conducting research and creating comprehensive documentation for diverse stakeholder audiences gives me the opportunity to 
 learn new technologies like a writer. 
 
